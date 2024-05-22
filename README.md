@@ -37,5 +37,3 @@ Artistry Village is an online platform aimed at empowering local artisans and sm
 3. **Products:** Stores product information like title, description, and price.
 4. **Orders:** Manages order details such as order date and total amount.
 5. **Order_Items:** Tracks individual order items including quantity and subtotal.
-```
-
